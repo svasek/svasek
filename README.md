@@ -1,4 +1,6 @@
-<img src="svasek-logo.png" width="450px">
+<p align="center">
+  <a href="https://github.com/svasek"><img src="svasek-logo.png" alt="svasek" width="450px"></a>
+</p>
 
 <!--
 **svasek/svasek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
