@@ -4,7 +4,7 @@
   </td>
   <td valign="middle" width="50%">
     <picture>
-      <source srcset="https://github-readme-stats.vercel.app/api?username=svasek&show_icons=true&theme=dark&ring_color=79ff97" media="(prefers-color-scheme: dark)" />
+      <source srcset="https://github-readme-stats.vercel.app/api?username=svasek&show_icons=true&theme=transparent&hide_border=true&title_color=d1d7e0&text_color=999999&icon_color=79ff97&ring_color=79ff97" media="(prefers-color-scheme: dark)" />
       <source srcset="https://github-readme-stats.vercel.app/api?username=svasek&show_icons=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
       <img src="https://github-readme-stats.vercel.app/api?username=svasek&show_icons=true" />
     </picture>
